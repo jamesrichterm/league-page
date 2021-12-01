@@ -9,7 +9,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Tats Dynasty.</p>
   <p>Started By Hayden Huey.</p>
-  
 `;
 
 /*   STEP 3   */
